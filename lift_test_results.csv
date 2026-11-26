@@ -1,0 +1,2 @@
+test_name,channel,test_start,test_end,holdout_share_of_spend,spend_withheld_inr,incremental_revenue_inr,measured_iroas,iroas_90ci_low,iroas_90ci_high,notes
+Meta geo-holdout (20% of pin-code clusters dark),meta,2025-04-07,2025-05-12,0.2,4459000.0,6209000.0,1.39,0.94,1.84,Incremental revenue measured over test weeks + 4 post weeks; synthetic-control methodology
